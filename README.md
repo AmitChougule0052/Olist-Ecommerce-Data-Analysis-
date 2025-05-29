@@ -21,5 +21,7 @@ Below is the outline of the challenge
 
 ## Data Schema : 
 
+https://github.com/AmitChougule0052/Olist-Ecommerce-Data-Analysis-/blob/18bf404d5f053dc3767c5080c02663cee1d0251a/WhatsApp%20Image%202025-05-29%20at%2012.58.04%20PM.jpeg
+
 
 
