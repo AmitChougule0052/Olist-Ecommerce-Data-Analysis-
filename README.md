@@ -26,3 +26,105 @@ Below is the outline of the challenge
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Data Explorationh And Validation : 
+
+ I Explored 9 different tables with the excel and from this process , i discovered the dataset had the following quality issues : 
+
+    • Null and the Empty values 
+    • Unwanted Speecial characters 
+    • Irrelevent columns .
+    • Errors in the Spelling . 
+
+
+## Data  Cleaning : 
+
+  In the data cleaning i used the MySQL 
+
+  • Converting and the updating the translation table. There are the rocords in the category column that requires us to replace with the english translated versions of the Portuguese strings from the category_name_translatn table, but after confirmng the distinct records from the translation table. 
+
+
+
+
+
+![b805f8a9-9865-41fa-9d37-ed7e2eb93f39](https://github.com/user-attachments/assets/0a2fce9c-738a-42d7-8b30-f44fd84259ff)
+
+
+
+
+
+
+
+
+
+  •  Deteting the unwanted attributes/ Columns for the optimized analysing and reducing the time. 
+
+  • Check the null records and replace them with the correct strings or numeric values after checking for the null values , there are 610 records with the null values in the category , name_length , descriptn_len   , and photos_qty columns of the products table. i used the coalesce function to replace the null values in the category with N/A , and 0 with the null values in the name_length , descriptn_len , and photos_qty 
+    columns. 
+
+
+
+
+
+
+![ae96de23-354d-4049-8fa7-b18b8462b7f6](https://github.com/user-attachments/assets/0fbcbe76-bcfb-4a1d-b730-5882ea8c730a)
+
+
+
+
+
+
+## Perform KPI's Data Analysis : 
+
+1. Weekdays vs Weekend (Order_purchase_timestamp) payment statistics .
+
+
+
+![280260ff-64dc-4f1f-b5eb-4546480d4e9b](https://github.com/user-attachments/assets/1fc4f091-a0cb-4f30-8464-6f42c779cb9f)
+
+
+
+
+
+
+
+
+![39d5c472-d252-474e-a991-43ee71c64e55](https://github.com/user-attachments/assets/f8d55d22-dcf1-4054-8f55-31aa65b60d68)
+
+
+
+
+
+
+
+
+
+## 2. Nukmber of the orders with review score 5 and payment type as credeit card. 
+
+
+
+
+
+
+
+
+
+
+
