@@ -19,9 +19,10 @@ Below is the outline of the challenge
 • Perform KPI's Data Analysis
 • Share Insights and Make recommendations
 
-## Data Schema : 
+## Data Schema : ![WhatsApp Image 2025-05-29 at 12 58 04 PM](https://github.com/user-attachments/assets/d7ef6fcb-f127-4b0f-b5bc-785794cd81a0)
 
-https://github.com/AmitChougule0052/Olist-Ecommerce-Data-Analysis-/blob/18bf404d5f053dc3767c5080c02663cee1d0251a/WhatsApp%20Image%202025-05-29%20at%2012.58.04%20PM.jpeg
+
+
 
 
 
